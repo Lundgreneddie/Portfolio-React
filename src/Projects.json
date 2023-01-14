@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Fullstack food review application",
+    "id": "1",
+    "image": "https://i.imgur.com/Kc2U2DJ.png",
+    "netlify": "https://github.com/Lundgreneddie/Portfolio-React",
+    "github": "https://github.com/Lundgreneddie/final-project",
+    "description": "A fullstack project build with React, Node.js, mongoose and MongoDB where you can create a personal account and review restaurants",
+    "tools": [
+      "React",
+      "Node.js",
+      "Mongoose",
+      "MongoDB",
+      "Restful API",
+      "Styled Components"
+    ]
+  },
+  {
+    "title": "Weather app built with javascript using open weather api",
+    "id": "2",
+    "image": "https://i.imgur.com/Kc2U2DJ.png",
+    "netlify": "https://weather-app-by-team-fox.netlify.app/",
+    "github": "https://github.com/Lundgreneddie/project-weather-app",
+    "description": "Weather forecast for several locations worldwide using Open Weather API. ",
+    "tools": ["JavaScript", "API", "HTML", "CSS"]
+  },
+  {
+    "title": "Twitter-like app built with Javascript and Node.js",
+    "id": "3",
+    "image": "https://i.imgur.com/k2f28KG.png",
+    "netlify": "https://happy-thoughts-eddie.netlify.app/",
+    "github": "https://github.com/Lundgreneddie/project-happy-thoughts",
+    "description": "Happy thoughts is an application where you can share your thoughts and feelings",
+    "tools": ["React", "CSS", "Node.js", "Mongoose", "Heroku"]
+  },
+  {
+    "title": "Todo-list build with React & Redux",
+    "id": "4",
+    "image": "https://i.imgur.com/tRYiLLb.png",
+    "netlify": "https://eddies-todos.netlify.app/",
+    "github": "https://github.com/Lundgreneddie/project-todos",
+    "description": "A todo-list where you can add, check off and delete tasks built with Redux toolkit, React and Local storage",
+    "tools": ["React", "Redux toolkit", "Styled Components"]
+  },
+  {
+    "title": "Upcoming movies",
+    "id": "5",
+    "image": "https://i.imgur.com/667SRJg.png",
+    "netlify": "https://jesandeddiesmovies.netlify.app/",
+    "github": "https://github.com/Lundgreneddie/project-movies",
+    "description": "Pair-programming project practicing loops with React and fetchning data from an API",
+    "tools": ["Pair-programming", "React", "API"]
+  },
+  {
+    "title": "Guess who game built with JavaScript",
+    "id": "6",
+    "image": "https://i.imgur.com/R1WYHBb.png",
+    "netlify": "https://eddies-guesswhogame.netlify.app",
+    "github": "https://github.com/Lundgreneddie/project-guess-who",
+    "description": "Guess who game build with vanilla JavaScript where you ask the application questions to figure out the secret character",
+    "tools": ["JavaScript", "CSS", "HTML"]
+  }
+]
