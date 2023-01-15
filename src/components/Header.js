@@ -36,7 +36,7 @@ export const Header = () => {
         <h1>frontend developer</h1>
         <h2>+ retail sales</h2>
       </div>
-      <img src={ProfileImage} className="profile-img" />
+      <img src={ProfileImage} className="profile-img" alt="profile image" />
     </header>
   );
 };
