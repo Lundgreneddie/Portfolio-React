@@ -2,10 +2,10 @@
   {
     "title": "Fullstack food review application",
     "id": "1",
-    "image": "https://i.imgur.com/Kc2U2DJ.png",
-    "netlify": "https://github.com/Lundgreneddie/Portfolio-React",
+    "image": "https://i.imgur.com/S3a0tGU.png",
+    "netlify": "https://minechies.netlify.app",
     "github": "https://github.com/Lundgreneddie/final-project",
-    "description": "A fullstack project build with React, Node.js, mongoose and MongoDB where you can create a personal account and review restaurants",
+    "description": "A fullstack project build with React, Node.js, mongoose and MongoDB where you can create a personal account and review restaurants. Still a work in progress",
     "tools": [
       "React",
       "Node.js",
