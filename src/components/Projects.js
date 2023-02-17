@@ -13,7 +13,7 @@ export const Projects = () => {
             <article className="main-projects" key={project.id}>
               <a
                 className="img-container"
-                href="https://weather-app-by-team-fox.netlify.app/"
+                href={project.netlify}
                 target="blank"
               >
                 <div className="overlay">
