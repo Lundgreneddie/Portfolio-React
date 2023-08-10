@@ -16,9 +16,7 @@ export const Projects = () => {
                 href={project.netlify}
                 target="blank"
               >
-                <div className="overlay">
-                  <h3 className="overlay-text">{project.title}</h3>
-                </div>
+                <div className="overlay"></div>
                 <img
                   className="project-img"
                   src={project.image}

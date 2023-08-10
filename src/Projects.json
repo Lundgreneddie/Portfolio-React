@@ -34,7 +34,7 @@
     "tools": ["React", "CSS", "Node.js", "Mongoose", "Heroku"]
   },
   {
-    "title": "Todo-list build with React & Redux",
+    "title": "Todo-list built with React & Redux",
     "id": "4",
     "image": "https://i.imgur.com/tRYiLLb.png",
     "netlify": "https://eddies-todos.netlify.app/",

@@ -14,9 +14,7 @@ header {
   font-family: 'Montserrat', sans-serif;
   position: relative;
   width: 100%;
-  background: url(./images/header.jpg);
   background-size: cover;
-  /* filter: brightness(75%); */
   height: 520px;
   top: 0;
   left: 0;
@@ -34,7 +32,7 @@ a {
   font-size: 13px;
   line-height: 24px;
   letter-spacing: 0.04em;
-  color: white;
+  color: #161616;
 }
 
 .name-bold {
@@ -65,10 +63,6 @@ a {
 }
 
 .navbar-header a {
-  color: #ffffff;
-}
-
-.more-about-me a {
   color: #161616;
 }
 
@@ -79,17 +73,12 @@ a {
   border: 2px solid #161616;
   width: 180px;
   height: 180px;
-  border-radius: 50%;
   object-fit: cover;
 }
 
 .container {
   width: 320px;
   margin: 0 auto;
-}
-
-section:nth-child(2n) {
-  background: #f4f4f4;
 }
 
 .portfolio-heading-container {
@@ -135,6 +124,7 @@ p {
   text-align: center;
   margin-left: 5%;
   margin-right: 5%;
+  color: #161616;
 }
 
 .tags span {
@@ -165,7 +155,7 @@ p {
   font-family: 'Montserrat', sans-serif;
   font-size: 17px;
   line-height: 29px;
-  color: #000000;
+  color: #161616;
   margin-left: 5%;
   margin-right: 5%;
 }
@@ -199,11 +189,11 @@ p {
   text-align: center;
 }
 
-.overlay-text {
+/* .overlay-text {
   color: white;
   text-transform: uppercase;
   font-weight: 800;
-}
+} */
 
 .overlay:hover {
   background: transparent;
@@ -266,17 +256,6 @@ li {
 .more-about-me {
   text-align: center;
   padding: 40px 0px;
-}
-
-footer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  background: #161616;
-  color: white;
-  text-align: center;
-  margin: auto;
-  height: 302px;
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
