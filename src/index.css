@@ -173,6 +173,7 @@ p {
 
 .project-img {
   width: 100%;
+  height: 300px;
   margin: 0;
 }
 
@@ -187,13 +188,8 @@ p {
   justify-content: center;
   flex-direction: column;
   text-align: center;
+  height: 300px;
 }
-
-/* .overlay-text {
-  color: white;
-  text-transform: uppercase;
-  font-weight: 800;
-} */
 
 .overlay:hover {
   background: transparent;
